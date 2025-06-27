@@ -1,0 +1,12 @@
+{
+  "name": "PrimeiraAPI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/otavionvs/PrimeiraAPI.git",
+  "author": "otavio <otavio_neves@estudante.sesisenai.org.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1"
+  }
+}
